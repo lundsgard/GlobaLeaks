@@ -40,7 +40,7 @@
       "devDependencies": {
         "eslint": "8.12.0",
         "gettext-parser": "5.1.1",
-        "grunt": "1.4.1",
+        "grunt": "1.5.3",
         "grunt-angular-templates": "1.2.0",
         "grunt-confirm": "1.0.8",
         "grunt-contrib-clean": "2.0.0",
@@ -3329,9 +3329,9 @@
       "dev": true
     },
     "node_modules/grunt": {
-      "version": "1.4.1",
-      "resolved": "https://registry.npmjs.org/grunt/-/grunt-1.4.1.tgz",
-      "integrity": "sha512-ZXIYXTsAVrA7sM+jZxjQdrBOAg7DyMUplOMhTaspMRExei+fD0BTwdWXnn0W5SXqhb/Q/nlkzXclSi3IH55PIA==",
+      "version": "1.5.3",
+      "resolved": "https://registry.npmjs.org/grunt/-/grunt-1.5.3.tgz",
+      "integrity": "sha512-mKwmo4X2d8/4c/BmcOETHek675uOqw0RuA/zy12jaspWqvTp4+ZeQF1W+OTpcbncnaBsfbQJ6l0l4j+Sn/GmaQ==",
       "dev": true,
       "dependencies": {
         "dateformat": "~3.0.3",
@@ -3339,7 +3339,7 @@
         "exit": "~0.1.2",
         "findup-sync": "~0.3.0",
         "glob": "~7.1.6",
-        "grunt-cli": "~1.4.2",
+        "grunt-cli": "~1.4.3",
         "grunt-known-options": "~2.0.0",
         "grunt-legacy-log": "~3.0.0",
         "grunt-legacy-util": "~2.0.1",
@@ -6005,7 +6005,6 @@
       "integrity": "sha512-VA+eiiUtaIvpQJXISwE3OiMvQwAWrgKb97F0aXlCS1Ahikr8fEQq8m3Hf7Kv9KT3nokuHigJKsDMB6atU04olQ==",
       "dev": true,
       "dependencies": {
-        "encoding": "^0.1.13",
         "minipass": "^3.1.6",
         "minipass-sized": "^1.0.3",
         "minizlib": "^2.1.2"
@@ -12878,9 +12877,9 @@
       "dev": true
     },
     "grunt": {
-      "version": "1.4.1",
-      "resolved": "https://registry.npmjs.org/grunt/-/grunt-1.4.1.tgz",
-      "integrity": "sha512-ZXIYXTsAVrA7sM+jZxjQdrBOAg7DyMUplOMhTaspMRExei+fD0BTwdWXnn0W5SXqhb/Q/nlkzXclSi3IH55PIA==",
+      "version": "1.5.3",
+      "resolved": "https://registry.npmjs.org/grunt/-/grunt-1.5.3.tgz",
+      "integrity": "sha512-mKwmo4X2d8/4c/BmcOETHek675uOqw0RuA/zy12jaspWqvTp4+ZeQF1W+OTpcbncnaBsfbQJ6l0l4j+Sn/GmaQ==",
       "dev": true,
       "requires": {
         "dateformat": "~3.0.3",
@@ -12888,7 +12887,7 @@
         "exit": "~0.1.2",
         "findup-sync": "~0.3.0",
         "glob": "~7.1.6",
-        "grunt-cli": "~1.4.2",
+        "grunt-cli": "~1.4.3",
         "grunt-known-options": "~2.0.0",
         "grunt-legacy-log": "~3.0.0",
         "grunt-legacy-util": "~2.0.1",
